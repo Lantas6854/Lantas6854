@@ -7,4 +7,7 @@
 * `Added auto find & cut chicken`: Auto find & cut for obtaining chicken meat (required sushi knife) 
 * `Added auto find rice`: Auto find rice
 
+## COOK ARROZ ADVANCED v1 P2
+* `Added auto buy deluxe grow spray`: Auto buying deluxe grow spray from gems store before splicing onion
+
 
