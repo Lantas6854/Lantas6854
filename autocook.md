@@ -1,2 +1,10 @@
 # COOK ARROZ ADVANCED - UPDATE DOCUMENTATION
-* `ALL FEATURE FROM NORMAL VERSION`
+
+## COOK ARROZ ADVANCED v1 P1
+* `All feature from normal version`: Auto take ingredients, auto drop/put arroz into vending machine
+* `Added auto splice onion`: Auto find venus guytrap seed and foliage seed (required deluxe grow spray) 
+* `Added auto find grind salt & pepper`: Auto find and grind pepper, salt
+* `Added auto find & cut chicken`: Auto find & cut for obtaining chicken meat (required sushi knife) 
+* `Added auto find rice`: Auto find rice
+
+
