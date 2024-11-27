@@ -1,1 +1,1 @@
-Config = (
+info ali know mesta
